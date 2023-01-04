@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "ENTER YOUR SECRET KEY"
 start_sequence = "\nAI:"
 restart_sequence = "\nHuman: "
 
